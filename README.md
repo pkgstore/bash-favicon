@@ -1,4 +1,4 @@
-# Favicon Generation
+# Favicon Generator
 
 Bash script for favicon generation.
 
